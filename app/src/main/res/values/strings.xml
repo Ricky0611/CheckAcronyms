@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheckAcronyms</string>
+    <string name="check">Check</string>
+    <string name="err_msg">Can\'t check for empty string!</string>
+    <string name="empty_content">No corresponding meaning for this acronym!</string>
+    <string name="freq">Freq:</string>
+    <string name="since">Since:</string>
+    <string name="variation">Variations</string>
+</resources>
